@@ -1,2 +1,3 @@
 # qm3-practicum
-Quant 3 Practicum
+
+Data, code, and final paper for POLS 4724 practicum.
